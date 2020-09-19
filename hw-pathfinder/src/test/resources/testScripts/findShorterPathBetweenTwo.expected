@@ -1,0 +1,26 @@
+# Find the shortest path between two paths to same destination
+
+created graph g
+
+added node A to g
+added node B to g
+added node C to g
+added node D to g
+added node E to g
+
+added edge 2.000 from A to B in g
+added edge 2.000 from B to C in g
+added edge 2.000 from C to D in g
+added edge 2.000 from D to E in g
+
+added edge 1.000 from A to B in g
+added edge 1.000 from B to C in g
+added edge 1.000 from C to D in g
+added edge 6.000 from D to E in g
+
+path from A to E:
+A to B with weight 1.000
+B to C with weight 1.000
+C to D with weight 1.000
+D to E with weight 2.000
+total cost: 5.000

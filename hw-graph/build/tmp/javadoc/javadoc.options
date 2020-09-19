@@ -1,0 +1,13 @@
+-classpath '/Users/ericboris/Documents/CSE331/cse331-20sp-eboris91/hw-graph/build/classes/java/main:/Users/ericboris/Documents/CSE331/cse331-20sp-eboris91/hw-graph/build/resources/main'
+-d '/Users/ericboris/Documents/CSE331/cse331-20sp-eboris91/hw-graph/build/docs/javadoc'
+-doctitle 'hw-graph API'
+-quiet 
+-tag 'spec.modifies:a:Modifies:'
+-tag 'spec.effects:a:Effects:'
+-tag 'spec.requires:a:Requires:'
+-tag 'spec.specfield:a:Specfield:'
+-tag 'spec.derivedfield:a:Derived Field:'
+-windowtitle 'hw-graph API'
+'/Users/ericboris/Documents/CSE331/cse331-20sp-eboris91/hw-graph/src/main/java/graph/Graph.java'
+'/Users/ericboris/Documents/CSE331/cse331-20sp-eboris91/hw-graph/src/main/java/graph/problem1/IntQueue2.java'
+'/Users/ericboris/Documents/CSE331/cse331-20sp-eboris91/hw-graph/src/main/java/graph/problem1/IntQueue1.java'

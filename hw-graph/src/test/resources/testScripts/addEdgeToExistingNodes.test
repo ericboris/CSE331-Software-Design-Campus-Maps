@@ -1,0 +1,9 @@
+CreateGraph G
+
+AddNode G n1
+AddNode G n2
+
+AddEdge G n1 n2 e1
+
+ListNodes G
+ListChildren G n1

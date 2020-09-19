@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="marvel.scriptTestRunner.ScriptFileTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-05-20T18:16:39" hostname="Erics-MacBook-Air.local" time="19.183">
+  <properties/>
+  <testcase name="checkOutput[exampleTestEdgeCases]" classname="marvel.scriptTestRunner.ScriptFileTests" time="0.119"/>
+  <testcase name="checkOutput[exampleTestParserSmallishGraph]" classname="marvel.scriptTestRunner.ScriptFileTests" time="0.139"/>
+  <testcase name="checkOutput[exampleTestSimpleBFSTwoHops]" classname="marvel.scriptTestRunner.ScriptFileTests" time="0.005"/>
+  <testcase name="checkOutput[exampleTestMarvelOneHop 2]" classname="marvel.scriptTestRunner.ScriptFileTests" time="9.016"/>
+  <testcase name="checkOutput[exampleTestMarvelOneHop]" classname="marvel.scriptTestRunner.ScriptFileTests" time="9.872"/>
+  <testcase name="checkOutput[exampleTestSimpleBFSTwoHops 2]" classname="marvel.scriptTestRunner.ScriptFileTests" time="0.005"/>
+  <testcase name="checkOutput[testLoadGraph]" classname="marvel.scriptTestRunner.ScriptFileTests" time="0.008"/>
+  <testcase name="checkOutput[testLoadGraph 2]" classname="marvel.scriptTestRunner.ScriptFileTests" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

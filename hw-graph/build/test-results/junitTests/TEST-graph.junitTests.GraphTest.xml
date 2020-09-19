@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graph.junitTests.GraphTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-05-18T21:26:29" hostname="Erics-MacBook-Air.local" time="9260.567">
+  <properties/>
+  <testcase name="testChildrenSet" classname="graph.junitTests.GraphTest" time="9260.567">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

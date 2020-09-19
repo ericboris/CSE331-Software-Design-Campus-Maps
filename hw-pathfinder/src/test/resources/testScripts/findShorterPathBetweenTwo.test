@@ -1,0 +1,21 @@
+# Find the shortest path between two paths to same destination
+
+CreateGraph g
+
+AddNode g A
+AddNode g B
+AddNode g C
+AddNode g D
+AddNode g E
+
+AddEdge g A B 2.0
+AddEdge g B C 2.0
+AddEdge g C D 2.0
+AddEdge g D E 2.0
+
+AddEdge g A B 1.0
+AddEdge g B C 1.0
+AddEdge g C D 1.0
+AddEdge g D E 6.0
+
+FindPath g A E

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graph.junitTests.p1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-30T17:19:16" hostname="MacBook-Air.local" time="0.013">
+  <properties/>
+  <testcase name="testP1" classname="graph.junitTests.p1Test" time="0.013"/>
+  <system-out><![CDATA[m x n = 231
+221
+10
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

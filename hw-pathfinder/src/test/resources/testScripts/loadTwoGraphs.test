@@ -1,0 +1,18 @@
+# Find the shortest paths in two graphs
+
+CreateGraph g1
+
+AddNode g1 A1
+AddNode g1 B1
+
+CreateGraph g2
+
+AddNode g2 A2
+AddNode g2 B2
+
+AddEdge g1 A1 B1 1.0
+AddEdge g2 A2 B2 2.0
+
+FindPath g1 A1 B1
+
+FindPath g2 A2 B2

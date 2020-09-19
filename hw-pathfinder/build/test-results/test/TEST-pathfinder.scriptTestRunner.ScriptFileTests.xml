@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pathfinder.scriptTestRunner.ScriptFileTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-05-20T19:26:53" hostname="Erics-MacBook-Air.local" time="0.195">
+  <properties/>
+  <testcase name="checkOutput[exampleDijkstraTest]" classname="pathfinder.scriptTestRunner.ScriptFileTests" time="0.126"/>
+  <testcase name="checkOutput[pathInGraphWithLoop]" classname="pathfinder.scriptTestRunner.ScriptFileTests" time="0.006"/>
+  <testcase name="checkOutput[dijkstraPathToSelfTest]" classname="pathfinder.scriptTestRunner.ScriptFileTests" time="0.005"/>
+  <testcase name="checkOutput[pathDoesNotExist]" classname="pathfinder.scriptTestRunner.ScriptFileTests" time="0.005"/>
+  <testcase name="checkOutput[findShorterPathBetweenTwo]" classname="pathfinder.scriptTestRunner.ScriptFileTests" time="0.029"/>
+  <testcase name="checkOutput[loadTwoGraphs]" classname="pathfinder.scriptTestRunner.ScriptFileTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

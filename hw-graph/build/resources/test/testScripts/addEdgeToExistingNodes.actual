@@ -1,0 +1,9 @@
+created graph G
+
+added node n1 to G
+added node n2 to G
+
+added edge e1 from n1 to n2 in G
+
+G contains: n1 n2
+the children of n1 in G are: n2(e1)

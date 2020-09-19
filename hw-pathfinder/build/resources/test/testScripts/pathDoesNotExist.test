@@ -1,0 +1,8 @@
+# Path doesn't exist
+
+CreateGraph g
+
+AddNode g A
+AddNode g B
+
+FindPath g A B

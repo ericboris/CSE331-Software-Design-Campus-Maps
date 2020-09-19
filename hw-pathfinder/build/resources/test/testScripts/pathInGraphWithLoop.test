@@ -1,0 +1,17 @@
+# Find the shortest path in a graph with a loop
+
+CreateGraph g
+
+AddNode g A
+AddNode g B
+AddNode g C
+AddNode g D
+AddNode g E
+
+AddEdge g A B 1.0
+AddEdge g B C 1.0
+AddEdge g C D 1.0
+AddEdge g D A 1.0
+AddEdge g A E 5.0
+
+FindPath g A E

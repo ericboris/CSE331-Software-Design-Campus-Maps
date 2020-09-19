@@ -1,0 +1,19 @@
+# Find the shortest path in a graph with a loop
+
+created graph g
+
+added node A to g
+added node B to g
+added node C to g
+added node D to g
+added node E to g
+
+added edge 1.000 from A to B in g
+added edge 1.000 from B to C in g
+added edge 1.000 from C to D in g
+added edge 1.000 from D to A in g
+added edge 5.000 from A to E in g
+
+path from A to E:
+A to E with weight 5.000
+total cost: 5.000

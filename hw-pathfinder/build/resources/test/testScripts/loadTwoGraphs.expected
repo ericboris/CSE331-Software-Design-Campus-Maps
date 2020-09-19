@@ -1,0 +1,22 @@
+# Find the shortest paths in two graphs
+
+created graph g1
+
+added node A1 to g1
+added node B1 to g1
+
+created graph g2
+
+added node A2 to g2
+added node B2 to g2
+
+added edge 1.000 from A1 to B1 in g1
+added edge 2.000 from A2 to B2 in g2
+
+path from A1 to B1:
+A1 to B1 with weight 1.000
+total cost: 1.000
+
+path from A2 to B2:
+A2 to B2 with weight 2.000
+total cost: 2.000
